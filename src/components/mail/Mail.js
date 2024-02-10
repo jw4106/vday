@@ -50,7 +50,7 @@ export default function Mail() {
                     <button 
                         className="yes-button"
                         style={{width: buttonWidth + "%"}}
-                        onClick={() => navigate(`/vday/reservation`)}
+                        onClick={() => navigate(`/reservation`)}
                     >
                         {yesText}
                     </button>

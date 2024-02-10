@@ -16,7 +16,7 @@ export default function Login() {
             setPasswordError1("Password Incorrect.")
             setPasswordError2("Hint: Pet's name")
         } else {
-            navigate(`/vday/inbox`)
+            navigate(`/inbox`)
         }
     }
     

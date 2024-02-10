@@ -17,7 +17,7 @@ export default function Reservation() {
                 <h1>Reservation Confirmed!</h1>
                 <h2> Sushi Dairo </h2>
                 <h3> February 14, 2024 @ 5:15PM</h3>
-                <h3 className='special' onClick={() => navigate(`/vday/secret`)}> Click Here to view Valentines Day Gift</h3>
+                <h3 className='special' onClick={() => navigate(`/secret`)}> Click Here to view Valentines Day Gift</h3>
             </div>
         </div>
     )
