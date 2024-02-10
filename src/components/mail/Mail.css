@@ -1,0 +1,80 @@
+.box{
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 15%;
+    border-radius: 50px;
+    padding-bottom: 3%;
+    background-color: pink;
+
+    font-family: Montserrat, sans-serif;;
+    font-size: 24px;
+    line-height: 45px;
+    font-weight: bold;
+    padding: 40px;
+    box-shadow:
+        inset #ff7afd 0 0 0 5px, 
+      inset #f563cc 0 0 0 1px, 
+      inset #f491fb 0 0 0 10px, 
+      inset #fdb2fe 0 0 0 11px, 
+      inset #fcc4f3 0 0 0 16px, 
+      inset #ffd4fb 0 0 0 17px;
+  }
+
+  .duck {
+    position: absolute;
+    width: 14%;
+    height: 24%;
+    margin-left: 45%;
+    margin-top: -10%;
+  }
+
+  .pretty {
+    color: rgb(163, 18, 42);
+    width: 50%;
+    margin-top: -1%;
+  }
+
+  .inner-box {
+    justify-content: left;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 25px;
+    padding-bottom: 3%;
+    background-color: rgb(168, 168, 168);
+    opacity: 75%;
+  }
+
+  .yes-button {
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .horizontal-center {
+    text-align: center;
+  }
+  .no-button {
+    margin: 0 auto;
+  }
+
+  h1 {
+    padding: 10px;
+  }
+
+  button {
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 14px 24px;
+    border: none;
+    transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
+    background: linear-gradient(to right, rgb(230, 30, 170) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%);
+    color: #fff;
+    width: 15%;
+  }

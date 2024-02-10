@@ -1,0 +1,38 @@
+.notification-container {
+    justify-content: center;
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 20%;
+    border-radius: 50px;
+    padding-bottom: 3%;
+}
+
+.notification-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    animation: gelatine 1.0s infinite;
+}
+
+@keyframes gelatine {
+    from, to { transform: scale(1, 1); }
+    25% { transform: scale(0.9, 1.1); }
+    50% { transform: scale(1.1, 0.9); }
+    75% { transform: scale(0.95, 1.05); }
+}
+
+.notification-img:hover {
+    cursor: pointer;
+}
+
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: pink;
+    width: 25%;
+    padding: 1%;
+    border-radius: 20px;
+}

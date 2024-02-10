@@ -1,0 +1,56 @@
+.box{
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 15%;
+    border-radius: 50px;
+    padding-bottom: 3%;
+    background-color: pink;
+
+    font-family: Montserrat, sans-serif;;
+    font-size: 24px;
+    line-height: 45px;
+    font-weight: bold;
+    padding: 40px;
+    box-shadow:
+        inset #ff7afd 0 0 0 5px, 
+      inset #f563cc 0 0 0 1px, 
+      inset #f491fb 0 0 0 10px, 
+      inset #fdb2fe 0 0 0 11px, 
+      inset #fcc4f3 0 0 0 16px, 
+      inset #ffd4fb 0 0 0 17px;
+  }
+
+  .pretty {
+    color: rgb(163, 18, 42);
+    width: 50%;
+    margin-top: -1%;
+  }
+
+  .horizontal-center {
+    text-align: center;
+  }
+
+  .confetti {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+
+  h1 {
+    width: 100%;
+  }
+  h2,h3 {
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+  }
+
+  .special {
+    color: rgb(253, 97, 123);
+  }
+
+  .special:hover {
+    cursor: pointer;
+  }
+  
