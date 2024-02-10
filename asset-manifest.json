@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vday/static/css/main.4fe2efcb.css",
+    "main.js": "/vday/static/js/main.98a4c543.js",
+    "static/js/592.918a8bb2.chunk.js": "/vday/static/js/592.918a8bb2.chunk.js",
+    "static/media/notification.png": "/vday/static/media/notification.bb213b1faa32076700cb.png",
+    "static/media/duck.png": "/vday/static/media/duck.59fd904662e95b9cfd2a.png",
+    "static/media/bg.jpeg": "/vday/static/media/bg.59231ecf8e2d7aefa29f.jpeg",
+    "static/media/logo.png": "/vday/static/media/logo.63e3219a2de2ca80450f.png",
+    "static/media/font.ttf": "/vday/static/media/font.8de441de7974346171db.ttf",
+    "static/media/inbox.png": "/vday/static/media/inbox.af62d0318ca65da35956.png",
+    "static/media/secret.jpeg": "/vday/static/media/secret.e7669d261c2ff1ffcfc6.jpeg",
+    "index.html": "/vday/index.html",
+    "main.4fe2efcb.css.map": "/vday/static/css/main.4fe2efcb.css.map",
+    "main.98a4c543.js.map": "/vday/static/js/main.98a4c543.js.map",
+    "592.918a8bb2.chunk.js.map": "/vday/static/js/592.918a8bb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe2efcb.css",
+    "static/js/main.98a4c543.js"
+  ]
+}
