@@ -14,7 +14,7 @@ export default function HomePage() {
                     src={icon} 
                     alt="" 
                     className="notification-img" 
-                    onClick={() => navigate(`/mail`)}
+                    onClick={() => navigate(`/vday/mail`)}
                 />
                 <h1> You got mail! </h1>
             </div>

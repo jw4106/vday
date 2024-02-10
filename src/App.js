@@ -11,11 +11,11 @@ function App() {
     <>
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<Login />}></Route>
-        <Route path='/inbox' element={<HomePage />}></Route>
-        <Route path='/mail' element={<Mail />}></Route>
-        <Route path='/reservation' element={<Reservation />}></Route>
-        <Route path='/secret' element={<Secret />}></Route>
+        <Route path='/vday' element={<Login />}></Route>
+        <Route path='/vday/inbox' element={<HomePage />}></Route>
+        <Route path='/vday/mail' element={<Mail />}></Route>
+        <Route path='/vday/reservation' element={<Reservation />}></Route>
+        <Route path='/vday/secret' element={<Secret />}></Route>
       </Routes>
     </BrowserRouter>
     </>
